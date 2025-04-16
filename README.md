@@ -1,4 +1,4 @@
-# 🛫 Flight Booking Performance Testing using JMeter
+# 🛫 Flight Booking Performance Testing Using JMeter
 
 This project demonstrates performance testing of a flight booking system using Apache JMeter.
 
