@@ -36,3 +36,8 @@ This project demonstrates performance testing of a flight booking system using A
 4. Run the test from GUI or command line:
    ```bash
    jmeter -n -t Test Plan/flight-booking-test.jmx -l Result/Results.csv -e -o htmlReport/HTMLReport
+
+## 🌐 Tested Application
+
+This performance test was conducted on the [BlazeDemo Flight Booking Website](https://blazedemo.com), a public demo site used for testing purposes.
+
